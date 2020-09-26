@@ -6,7 +6,7 @@ class MldonkeyAT316 < Formula
   revision 2
   head "https://github.com/ygrek/mldonkey.git", :branch => "next"
 
-  depends_on "camlp5" => :build
+  depends_on "camlp4" => :build
   depends_on "ocaml" => :build
   depends_on "ocaml-num" => :build
   depends_on "pkg-config" => :build
