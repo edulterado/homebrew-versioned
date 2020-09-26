@@ -1,4 +1,4 @@
-class Camlp4 < Formula
+class Camlp4AT408x1 < Formula
   desc "Tool to write extensible parsers in OCaml"
   homepage "https://github.com/ocaml/camlp4"
   url "https://github.com/ocaml/camlp4/archive/4.08+1.tar.gz"
