@@ -6,7 +6,7 @@ class Camlp4AT408x1 < Formula
   sha256 "655cd3bdcafbf8435877f60f4b47dd2eb69feef5afd8881291ef01ba12bd9d88"
   head "https://github.com/ocaml/camlp4.git", :branch => "trunk"
 
-  depends_on "ocaml"
+  #depends_on "ocaml"
   # since OCaml 4.03.0, ocamlbuild is no longer part of ocaml
   depends_on "ocamlbuild"
 
