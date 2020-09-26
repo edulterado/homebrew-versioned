@@ -1,4 +1,4 @@
-class MldonkeyAT317 < Formula
+class MldonkeyAT316 < Formula
   desc "OCaml/GTK client for the eDonkey P2P network"
   homepage "https://mldonkey.sourceforge.io"
   url "https://github.com/ygrek/mldonkey/releases/download/release-3-1-6/mldonkey-3.1.7.tar.bz2"
